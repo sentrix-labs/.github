@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/sentrix-labs/brand-kit@master/png-transparent/sentrix-256.png" alt="Sentrix Chain" width="128">
+  <img src="https://cdn.jsdelivr.net/gh/sentrix-labs/brand-kit@master/png-transparent/sentrix-labs-256.png" alt="Sentrix Labs" width="128">
 
   # Sentrix Labs
 
