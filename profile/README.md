@@ -3,7 +3,7 @@
 
   # Sentrix Labs
 
-  **Building Sentrix Chain — an Indonesian Layer-1 blockchain written in Rust.**
+  **Building [Sentrix Chain](https://sentrixchain.com) — an Indonesian Layer-1 blockchain written in Rust.**
 
   [![Website](https://img.shields.io/badge/website-sentrixchain.com-8A5A11)](https://sentrixchain.com)
   [![X](https://img.shields.io/badge/X-@sentrixchain-000000)](https://x.com/sentrixchain)
@@ -13,39 +13,40 @@
 
 ## About
 
-Sentrix Labs is the team behind **Sentrix Chain**, a high-performance Layer-1 blockchain with native + EVM dual-layer execution.
+Sentrix Labs is the protocol team behind **[Sentrix Chain](https://sentrixchain.com)** — a high-performance Layer-1 blockchain with native + EVM dual-layer execution. Mainnet went live with the Voyager release (April 2026).
 
 Built from scratch in Rust by [@satyakwok](https://github.com/satyakwok). Open-source ecosystem, community-first.
 
-## Projects
+User-facing products (explorer, wallet, faucet, launchpad) live under [`sentriscloud`](https://github.com/sentriscloud).
 
-| Repo | Description | Status |
-|------|-------------|--------|
-| [**sentrix**](https://github.com/sentrix-labs/sentrix) | Core L1 blockchain (Rust) | 🟢 Live |
-| [**sentrix-scan**](https://github.com/sentrix-labs/sentrix-scan) | Block explorer | 🟡 Beta |
-| [**sentrix-wallet-web**](https://github.com/sentrix-labs/sentrix-wallet-web) | Web wallet | 🟡 Beta |
-| [**sentrix-wallet-mobile**](https://github.com/sentrix-labs/sentrix-wallet-mobile) | Mobile wallet (Flutter) | 🔵 Dev |
-| [**sentrix-faucet**](https://github.com/sentrix-labs/sentrix-faucet) | Testnet faucet | 🟢 Live |
-| [**coinblast**](https://github.com/sentrix-labs/coinblast) | Token launchpad | 🔵 Dev |
-| [**brand-kit**](https://github.com/sentrix-labs/brand-kit) | Official brand assets | 🟢 Live |
+## Repositories
 
-## Tech Stack
+| Repo | Description |
+|------|-------------|
+| [**sentrix**](https://github.com/sentrix-labs/sentrix) | Core L1 blockchain — Rust node, consensus, EVM execution |
+| [**brand-kit**](https://github.com/sentrix-labs/brand-kit) | Official logos, marks, and brand guidelines |
+
+## Live infrastructure
+
+- 🌐 Protocol site: **[sentrixchain.com](https://sentrixchain.com)**
+- 🔍 Block explorer: **[scan.sentrixchain.com](https://scan.sentrixchain.com)**
+- 💧 Testnet faucet: **[faucet.sentrixchain.com](https://faucet.sentrixchain.com)**
+- 📚 Faucet docs: **[sentrixchain.com/docs/faucet](https://sentrixchain.com/docs/faucet)**
+
+## Tech
 
 - **Language:** Rust (chain) · TypeScript (apps) · Flutter (mobile)
 - **Consensus:** DPoS + BFT
 - **Execution:** Native + EVM (revm)
-- **Chain ID:** 7119
-
-## Tokens
-
-- **SRX** — Consensus & staking (native)
-- **SNTX** — Gas token (with burn mechanics)
-- **SRTX** — CDP-backed stablecoin (SRC-20)
+- **Mainnet chain ID:** 7119
+- **Testnet chain ID:** 7120
+- **Native token:** SRX (single-token model)
 
 ## Links
 
-- 🌐 Website: [sentrixchain.com](https://sentrixchain.com)
+- 🌐 Website: **[sentrixchain.com](https://sentrixchain.com)**
 - 𝕏 Twitter: [@sentrixchain](https://x.com/sentrixchain)
+- 🏢 Company: [sentriscloud.com](https://sentriscloud.com)
 - 👨‍💻 Founder: [@satyakwok](https://github.com/satyakwok)
 
 ---
