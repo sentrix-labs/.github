@@ -42,6 +42,14 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 - **Testnet chain ID:** 7120
 - **Native token:** SRX (single-token model)
 
+## Contact
+
+- 🔒 Security disclosures: **[security@sentrixchain.com](mailto:security@sentrixchain.com)** (or [private GitHub Security Advisory](https://github.com/sentrix-labs/sentrix/security/advisories/new))
+- 🛠️ Builders & dApp inquiries: **[builders@sentrixchain.com](mailto:builders@sentrixchain.com)**
+- 🤝 Validator onboarding: **[validators@sentrixchain.com](mailto:validators@sentrixchain.com)**
+- 🌱 Ecosystem grants: **[grants@sentrixchain.com](mailto:grants@sentrixchain.com)**
+- 💬 General support: **[support@sentrixchain.com](mailto:support@sentrixchain.com)** · Telegram [@SentrixCommunity](https://t.me/SentrixCommunity)
+
 ## Links
 
 - 🌐 Website: **[sentrixchain.com](https://sentrixchain.com)**
