@@ -13,9 +13,9 @@
 
 ## About
 
-Sentrix Labs is the protocol team behind **[Sentrix Chain](https://sentrixchain.com)** — a high-performance Layer-1 blockchain with native + EVM dual-layer execution. Mainnet went live with the Voyager release (April 2026).
+Sentrix Labs is the protocol home of **[Sentrix Chain](https://sentrixchain.com)** — a high-performance Layer-1 blockchain with native + EVM dual-layer execution. Mainnet went live with the Voyager release (April 2026).
 
-Built from scratch in Rust by [@satyakwok](https://github.com/satyakwok). Open-source ecosystem, community-first.
+Built from scratch in Rust by [@satyakwok](https://github.com/satyakwok). Open-source, community-first.
 
 User-facing products (explorer, wallet, faucet, launchpad) live under [`sentriscloud`](https://github.com/sentriscloud).
 
@@ -46,7 +46,7 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 
 - 🌐 Website: **[sentrixchain.com](https://sentrixchain.com)**
 - 𝕏 Twitter: [@sentrixchain](https://x.com/sentrixchain)
-- 🏢 Company: [sentriscloud.com](https://sentriscloud.com)
+- 🛠️ Apps: [sentriscloud.com](https://sentriscloud.com)
 - 👨‍💻 Founder: [@satyakwok](https://github.com/satyakwok)
 
 ---
