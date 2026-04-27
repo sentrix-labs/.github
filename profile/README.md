@@ -24,6 +24,7 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 | Repo | Description |
 |------|-------------|
 | [**sentrix**](https://github.com/sentrix-labs/sentrix) | Core L1 blockchain — Rust node, consensus, EVM execution |
+| [**canonical-contracts**](https://github.com/sentrix-labs/canonical-contracts) | Production EVM contracts — WSRX, Multicall3, Safe, TokenFactory |
 | [**brand-kit**](https://github.com/sentrix-labs/brand-kit) | Official logos, marks, and brand guidelines |
 
 ## Live infrastructure
@@ -32,10 +33,11 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 - 🔍 Block explorer: **[scan.sentrixchain.com](https://scan.sentrixchain.com)**
 - 💧 Testnet faucet: **[faucet.sentrixchain.com](https://faucet.sentrixchain.com)**
 - 📚 Faucet docs: **[sentrixchain.com/docs/faucet](https://sentrixchain.com/docs/faucet)**
+- 📜 Canonical contracts: **[sentrixchain.com/docs/contracts](https://sentrixchain.com/docs/contracts)** — addresses populated post-deploy in [`canonical-contracts/docs/ADDRESSES.md`](https://github.com/sentrix-labs/canonical-contracts/blob/main/docs/ADDRESSES.md)
 
 ## Tech
 
-- **Language:** Rust (chain) · TypeScript (apps) · Flutter (mobile)
+- **Language:** Rust (chain) · TypeScript (apps) · Solidity 0.8.24 + Foundry (canonical contracts) · Flutter (mobile)
 - **Consensus:** DPoS + BFT
 - **Execution:** Native + EVM (revm)
 - **Mainnet chain ID:** 7119
