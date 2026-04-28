@@ -33,6 +33,7 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 - 🔍 Block explorer: **[scan.sentrixchain.com](https://scan.sentrixchain.com)**
 - 💧 Testnet faucet: **[faucet.sentrixchain.com](https://faucet.sentrixchain.com)**
 - 📚 Faucet docs: **[sentrixchain.com/docs/faucet](https://sentrixchain.com/docs/faucet)**
+- 💰 Tokenomics: **[sentrixchain.com/docs/tokenomics](https://sentrixchain.com/docs/tokenomics)**
 - 📜 Canonical contracts: **[sentrixchain.com/docs/contracts](https://sentrixchain.com/docs/contracts)** — addresses populated post-deploy in [`canonical-contracts/docs/ADDRESSES.md`](https://github.com/sentrix-labs/canonical-contracts/blob/main/docs/ADDRESSES.md)
 
 ## Tech
