@@ -22,10 +22,13 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 ## Repositories
 
 | Repo | Description |
-|------|-------------|
-| [**sentrix**](https://github.com/sentrix-labs/sentrix) | Core L1 blockchain — Rust node, consensus, EVM execution |
-| [**canonical-contracts**](https://github.com/sentrix-labs/canonical-contracts) | Production EVM contracts — WSRX, Multicall3, Safe, TokenFactory |
-| [**brand-kit**](https://github.com/sentrix-labs/brand-kit) | Official logos, marks, and brand guidelines |
+|---|---|
+| [sentrix](https://github.com/sentrix-labs/sentrix) | Core L1 blockchain — Rust node, consensus, EVM execution |
+| [awesome-sentrix](https://github.com/sentrix-labs/awesome-sentrix) | Curated Sentrix resources, developer tools, infrastructure, applications, and guides |
+| [canonical-contracts](https://github.com/sentrix-labs/canonical-contracts) | Production EVM contracts — WSRX, Multicall3, SentrixSafe, TokenFactory |
+| [sentrix-dex](https://github.com/sentrix-labs/sentrix-dex) | Native AMM / DEX contracts for Sentrix ecosystem liquidity |
+| [whitepaper](https://github.com/sentrix-labs/whitepaper) | Sentrix Chain whitepaper and protocol narrative |
+| [brand-kit](https://github.com/sentrix-labs/brand-kit) | Official logos, marks, and brand guidelines |
 
 ## Live infrastructure
 
