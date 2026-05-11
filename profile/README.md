@@ -63,6 +63,14 @@ User-facing products (explorer, wallet, faucet, launchpad) live under [`sentrisc
 - 🛠️ Apps: [sentriscloud.com](https://sentriscloud.com)
 - 👨‍💻 Founder: [@satyakwok](https://github.com/satyakwok)
 
+## Sponsor the Maintainers
+
+Sentrix Chain is built and maintained by a small team. Direct crypto support keeps upstream PRs, validator tooling, and ecosystem work moving — no fiat, no middleman.
+
+[![Sponsor @satyakwok](https://img.shields.io/badge/Sponsor-@satyakwok-2ea44f?style=for-the-badge&logo=ethereum&logoColor=white)](https://github.com/satyakwok#sponsor)
+
+Send on **EVM · Solana · Sui · Bitcoin (Taproot)** — addresses + QR codes at [@satyakwok](https://github.com/satyakwok#sponsor).
+
 ---
 
 <div align="center">
