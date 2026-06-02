@@ -25,16 +25,19 @@
 </p>
 
 <p align="center">
-  <a href="https://x.com/sentrixchain">
-    <img src="https://img.shields.io/badge/X-@sentrixchain-000000?style=flat-square" alt="X" />
+  <a href="https://x.com/SentrixChain">
+    <img src="https://img.shields.io/badge/X-@SentrixChain-000000?style=flat-square" alt="X" />
   </a>
   <a href="https://t.me/SentrixChain">
     <img src="https://img.shields.io/badge/Telegram-SentrixChain-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
+  <a href="https://t.me/Sentrix_Chain">
+    <img src="https://img.shields.io/badge/Chat-Sentrix__Chain-26A5E4?style=flat-square&logo=telegram&logoColor=white" alt="Telegram chat" />
+  </a>
   <a href="https://github.com/sentrix-labs/sentrix">
     <img src="https://img.shields.io/badge/Core-Rust-orange?style=flat-square&logo=rust" alt="Rust Core" />
   </a>
-  <a href="https://github.com/sentriscloud">
+  <a href="https://github.com/SentrisCloud">
     <img src="https://img.shields.io/badge/Apps-SentrisCloud-2563eb?style=flat-square" alt="SentrisCloud" />
   </a>
 </p>
@@ -48,7 +51,7 @@
 | Understand the protocol | [`sentrix`](https://github.com/sentrix-labs/sentrix) |
 | Find official resources | [`awesome-sentrix`](https://github.com/sentrix-labs/awesome-sentrix) |
 | Read the docs | [`docs`](https://github.com/sentrix-labs/docs) |
-| Build apps and tools | [`SentrisCloud`](https://github.com/sentriscloud) |
+| Build apps and tools | [`SentrisCloud`](https://github.com/SentrisCloud) |
 | Work with contracts | [`canonical-contracts`](https://github.com/sentrix-labs/canonical-contracts) |
 | Follow protocol proposals | [`SIPs`](https://github.com/sentrix-labs/SIPs) |
 
@@ -79,7 +82,7 @@ Sentrix Chain combines a Rust-native protocol core with familiar EVM tooling.
 | Infrastructure | Validators, fullnodes, RPC, indexers, explorer backend |
 | Ecosystem | Contracts, SDKs, docs, examples, and application tooling |
 
-User-facing products such as the explorer, faucet, wallet, launchpad, SDKs, indexers, and frontend applications live under **[SentrisCloud](https://github.com/sentriscloud)**.
+Some user-facing products, SDKs, indexers, and consolidated frontend applications live under **[SentrisCloud](https://github.com/SentrisCloud)**.
 
 ---
 
@@ -124,8 +127,8 @@ User-facing products such as the explorer, faucet, wallet, launchpad, SDKs, inde
 | REST API | [`https://api.sentrixchain.com`](https://api.sentrixchain.com) |
 | Faucet | [https://faucet.sentrixchain.com](https://faucet.sentrixchain.com) |
 | Wallet | [https://solux.sentriscloud.com](https://solux.sentriscloud.com) |
-| Launchpad | [https://coinblast.sentriscloud.com](https://coinblast.sentriscloud.com) |
-| Apps & tooling | [https://github.com/sentriscloud](https://github.com/sentriscloud) |
+| CoinBlast | [https://coinblast.sentriscloud.com](https://coinblast.sentriscloud.com) |
+| Apps & tooling | [https://github.com/SentrisCloud](https://github.com/SentrisCloud) |
 
 ---
 
@@ -173,7 +176,7 @@ Entry points:
 | [`sentrix`](https://github.com/sentrix-labs/sentrix) | Protocol, node, consensus, RPC, validator infrastructure |
 | [`awesome-sentrix`](https://github.com/sentrix-labs/awesome-sentrix) | Ecosystem map, official links, and contributor entry points |
 | [`docs`](https://github.com/sentrix-labs/docs) | Documentation, tutorials, guides, and onboarding |
-| [`SentrisCloud`](https://github.com/sentriscloud) | Explorer, wallet, faucet, launchpad, SDKs, indexers, and apps |
+| [`SentrisCloud`](https://github.com/SentrisCloud) | Explorer, wallet, faucet, SDKs, indexers, and apps |
 
 ---
 
@@ -219,7 +222,7 @@ Relevant areas:
 For validator discussions:
 
 - Email: [validators@sentrixchain.com](mailto:validators@sentrixchain.com)
-- Telegram: [t.me/SentrixChain](https://t.me/SentrixChain)
+- Telegram: [t.me/SentrixChain](https://t.me/SentrixChain) (announcements) · [t.me/Sentrix_Chain](https://t.me/Sentrix_Chain) (chat)
 
 ---
 
@@ -242,8 +245,9 @@ Please do not disclose vulnerabilities publicly.
 | Validators | [validators@sentrixchain.com](mailto:validators@sentrixchain.com) |
 | Ecosystem / grants | [grants@sentrixchain.com](mailto:grants@sentrixchain.com) |
 | General support | [support@sentrixchain.com](mailto:support@sentrixchain.com) |
-| Telegram | [t.me/SentrixChain](https://t.me/SentrixChain) |
-| X / Twitter | [@sentrixchain](https://x.com/sentrixchain) |
+| Telegram announcements | [t.me/SentrixChain](https://t.me/SentrixChain) |
+| Telegram chat | [t.me/Sentrix_Chain](https://t.me/Sentrix_Chain) |
+| X | [@SentrixChain](https://x.com/SentrixChain) |
 | Founder | [@satyakwok](https://github.com/satyakwok) |
 
 ---
